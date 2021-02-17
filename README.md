@@ -7,5 +7,5 @@ todos los empleados nos interesa su Legajo, DNI (debe ser único), nombre, apell
 fecha de nacimiento y especializaciones (Administrativo, Cadete, Asistente contable etc.). Tener
 en cuenta que un mismo empleado puede poseer más de una especialización. De los
 departamentos su identificador, nombre y si está activo o no (si/no).
-Se pide crear el diagrama DER. Crear una base, si no existe, llamada Cara con las sentencias
+Se pide crear el diagrama DER. Crear una base llamada Cara con las sentencias
 DDL para crear tablas con sus restricciones y atributos teniendo en cuenta el tipo de dato.
