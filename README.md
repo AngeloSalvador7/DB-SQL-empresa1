@@ -1,4 +1,4 @@
-# Basedata-empresa2
+# Database Cara S.A.
 
 La empresa Cara S. A. desea registrar los departamentos de una empresa con las siguientes
 características: Un departamento tiene varios empleados, pudiendo estos estar asignados a un
